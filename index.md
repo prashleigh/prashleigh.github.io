@@ -1,9 +1,9 @@
 ---
-layout: default
+layout: home
 title: Welcome to My Site
 ---
 
-# Hi Tarika! Welcome to My Site 2
+# Hi Tarika! Welcome to My Site 3
 
 This is a simple introduction to my site. Here's a [link](https://example.com) you can check out.
 
