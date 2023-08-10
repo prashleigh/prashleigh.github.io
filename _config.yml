@@ -1,5 +1,5 @@
 # Site settings
-title: A test of Jekyll in prep for CDS August institute - 2
+title: A test of Jekyll in prep for CDS August institute - 3
 description: All sorts of interesting things to be seen here.
 theme: minima
 # theme: jekyll-theme-minimal # You can change this to the desired theme
@@ -8,8 +8,8 @@ theme: minima
 # Main nav for the minima theme
 
 header_pages:
-  - about.md
-  - portfolio.md
+  - index.md
+  - page1.md
 
 # navigation:
 #   - name: Home
