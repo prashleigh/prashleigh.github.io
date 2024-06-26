@@ -8,7 +8,7 @@ title: Welcome to My Site
 <p>This is a simple introduction to my site.</p>
 <p>Here is a test of the <tt>Ruby</tt> element:</p>
 <p>
-  <ruby> 明日 <rp>(</rp><rt>Ashita</rt><rp>)</rp> </ruby>
+  <ruby> 明日 <rp>(</rp><rt>Greetings</rt><rp>)</rp> </ruby>
 </p>
 
 
