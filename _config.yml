@@ -1,2 +1,6 @@
 Title: A test site for Summer `24
 theme: minima
+
+header_pages:
+- index.md
+- page1.md
